@@ -1,0 +1,42 @@
+﻿@model MyLog
+<head>
+    <link rel="stylesheet" href="~/css/Register.css" asp-append-version="true" />
+</head>
+<div class="container">
+    <form class="d-flex flex-column align-items-start justify-content-center gap-8"  method = "post" asp-action="Register">
+        <div asp-validation-summary="All" style="color: red;font-size:15px"></div>
+        <div class="col-4 mb-3 d-flex rowa">
+            <label class="title">Email</label>
+            <input type="email" placeholder="Enter your email" asp-for="email" class="inpu"/>
+        </div>
+        <div class="col-4 mb-3  d-flex rowa">
+            <label class="title">Name</label>
+            <input type="text" placeholder="Enter your username" asp-for="userName" class="inpu"/>
+        </div>
+        <div class="col-4 mb-3  d-flex rowa" >
+            <label class="title">Password</label>
+            <input type="password" placeholder="Enter your password" asp-for="password" class="inpu"/>
+        </div>
+        <div class="col-4 mb-3  d-flex rowa" >
+            <label class="title">Confirm Password</label>
+            <input type="password" placeholder="Enter your password" asp-for="confirmPassword" class="inpu"/>
+        </div>
+        <div class="col-4 mb-3  d-flex rowa" >
+            <label class="form-label">Register as</label>
+            @for(int i = 0; i < Model.roles.Length; i++)
+            {
+                <div class="d-flex align-items-center gap-2 justify-content-center">
+                    <input type="checkbox" asp-for="check[i]" class="check" />
+                    <label class="title another">@Model.roles[i]</label>
+                </div>
+            }
+            
+        </div>
+        <button type="submit" class="btn btn-success mt-3">Submit</button>
+    </form>
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

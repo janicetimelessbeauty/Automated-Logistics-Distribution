@@ -1,0 +1,30 @@
+﻿@model IEnumerable<OrderGroup>
+<head>
+    <link rel="stylesheet" href="~/css/Orders.css" />
+</head>
+<div class="container1">
+    <h1>Orders</h1>
+    <div class="container">
+    @foreach (var order in Model) 
+    {
+    <div class="card">
+                <img class="card-img-top" src="@order.products.ToArray()[0].productImage" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">@order.orderID</h5>
+            <div class="products">
+                @foreach(var product in order.products) {
+                <div class="product">
+                    <div class="orderId">@product.productID</div>
+                    <div class="name">@product.productName</div>
+                    <div class="quantity">@product.quantity</div>
+                </div>
+                }
+            </div>
+            <div class="title">@order.products.ToArray()[0].cust.dist</div>
+            <button  class="btn btn-success w-50" onclick="CalDistance(@order.products.ToArray()[0].cust.dist)">Get Distance</button>
+        </div>
+    </div>
+    }
+    </div>
+</div>
+<script src="~/js/random.js" asp-append-version="true"></script>

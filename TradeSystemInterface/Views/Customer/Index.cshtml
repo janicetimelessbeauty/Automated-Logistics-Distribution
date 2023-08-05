@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Customer>
+<head>
+    <link rel="stylesheet" href="~/css/Customer.css" asp-append-version="true" />
+</head>
+<div class="container2">
+    <h1>Customer List</h1>
+    @foreach (var customer in Model)
+    {
+    <div class="item">
+            <img src="https://cdn-icons-png.flaticon.com/512/8955/8955242.png" style="width: 60px; height: 60px;" />
+            <div class="container1">
+                <div class="ele">@customer.CustomerId</div>
+                <div class="ele">@customer.name</div>
+                <div class="ele">@customer.dateofBirth</div>
+                <div class="ele">@customer.address</div>
+                <div class="ele">@customer.city</div>
+                <div class="ele">@customer.mobilePhone</div>
+            </div>
+            <button class="btn btn-success h-25"><a asp-controller="Customer" asp-action="Edit" asp-route-id="@customer.CustomerId">Edit a customer</a></button>
+    </div>
+   
+    }
+    <button class="btn btn-success"><a asp-controller="Customer" asp-action="Insert">Add a customer</a></button>
+</div>
+<script src="~/js/Customer.js" asp-append-version="true"></script>
+
+

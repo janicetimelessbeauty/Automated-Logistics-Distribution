@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\TradeSystemInterface.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TradeSystemInterface.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\1.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\2.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\3.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\4.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\5.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\6.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\book-img.svg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\book-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\contact-img.svg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\contact-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-7.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-8.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\g-9.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\g-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-1.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-2.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-3.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-4.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-5.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\p-6.jpg",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\p-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\pic1.png",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\pic2.png",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\pic3.png",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\pic4.png",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\video1.mp4",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\video1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\video2.mp4",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\video2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Home\\Imoges\\video3.mp4",
+      "PackagePath": "staticwebassets\\Home\\Imoges\\video3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\6.jpg",
+      "PackagePath": "staticwebassets\\Images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\book-img.svg",
+      "PackagePath": "staticwebassets\\Images\\book-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\contact-img.svg",
+      "PackagePath": "staticwebassets\\Images\\contact-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\g-9.jpg",
+      "PackagePath": "staticwebassets\\Images\\g-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\p-6.jpg",
+      "PackagePath": "staticwebassets\\Images\\p-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\pic1.png",
+      "PackagePath": "staticwebassets\\Images\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\pic2.png",
+      "PackagePath": "staticwebassets\\Images\\pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\pic3.png",
+      "PackagePath": "staticwebassets\\Images\\pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\pic4.png",
+      "PackagePath": "staticwebassets\\Images\\pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\video1.mp4",
+      "PackagePath": "staticwebassets\\Images\\video1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\video2.mp4",
+      "PackagePath": "staticwebassets\\Images\\video2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\Images\\video3.mp4",
+      "PackagePath": "staticwebassets\\Images\\video3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Customer.css",
+      "PackagePath": "staticwebassets\\css\\Customer.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Deliver.css",
+      "PackagePath": "staticwebassets\\css\\Deliver.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Insert.css",
+      "PackagePath": "staticwebassets\\css\\Insert.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Orders.css",
+      "PackagePath": "staticwebassets\\css\\Orders.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\Shared.css",
+      "PackagePath": "staticwebassets\\css\\Shared.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\Search.js",
+      "PackagePath": "staticwebassets\\js\\Search.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\Shared.js",
+      "PackagePath": "staticwebassets\\js\\Shared.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\filter.js",
+      "PackagePath": "staticwebassets\\js\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\random.js",
+      "PackagePath": "staticwebassets\\js\\random.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\scripta.js",
+      "PackagePath": "staticwebassets\\js\\scripta.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemInterface\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.TradeSystemInterface.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.TradeSystemInterface.props",
+      "PackagePath": "build\\TradeSystemInterface.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TradeSystemInterface.props",
+      "PackagePath": "buildMultiTargeting\\TradeSystemInterface.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.TradeSystemInterface.props",
+      "PackagePath": "buildTransitive\\TradeSystemInterface.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,25 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/Deliver.css" />
+</head>
+<div style="margin-left:10px">
+    <div class="wrapper">
+        <ul class="StepProgress">
+        </ul>
+    </div>
+</div>
+<script src="~/js/random.js" asp-append-version="true">         
+  </script>
+  <script>
+    const bar = document.querySelector('.StepProgress');
+    var arr = JSON.parse(localStorage.getItem("steps"))
+    for (let ele of arr.reverse()) {
+        const div = document.createElement('div');
+        div.setAttribute('class', 'StepProgress-item is-done');
+        const strong = document.createElement('strong');
+        strong.innerHTML = ele;
+        bar.appendChild(div).appendChild(strong);
+    }
+  </script>
+
+
+

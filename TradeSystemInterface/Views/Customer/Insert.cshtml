@@ -1,0 +1,47 @@
+﻿@model Customer
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/Insert.css" asp-append-version="true" />
+</head>
+<div class="container">
+    <form method="post">
+        <div asp-validation-summary="All" style="color: red;font-size:15px"></div>
+        <div class="row">
+            <label class="form-label mb-3">Customer name</label>
+            <input type="text" class="form-control" asp-for="name" />
+        </div>
+        <div class="row">
+            <label class="form-label mb-3">Customer dateofBirth</label>
+            <input type="datetime-local" class="form-control" asp-for="dateofBirth" />
+        </div>
+        <div class="row">
+            <label class="form-label mb-3">Customer email</label>
+            <input type="email" class="form-control" asp-for="email"/>
+        </div>
+        <div class="row">
+            <label class="form-label mb-3">Customer mobilePhone</label>
+            <input type="text" class="form-control" asp-for="mobilePhone"/>
+        </div>
+        <div class="row">
+            <label class="form-label mb-3">Customer address</label>
+            <input type="text" class="form-control" asp-for="address"/>
+        </div>
+        <div class="row">
+            <label class="form-label">Customer City</label>
+            <select value="Melbourne" asp-for="city">
+                <option>Melbourne</option>
+                <option>Sydney</option>
+                <option>Brisbane</option>
+                <option>Perth</option>
+                <option>Darwin</option>
+            </select>
+        </div>
+        <button class="btn btn-danger mt-3">Submit</button>
+    </form>
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
