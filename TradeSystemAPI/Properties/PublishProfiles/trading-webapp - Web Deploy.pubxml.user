@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/Iodhe9iK0CIExRklaK9dAAAAAACAAAAAAAQZgAAAAEAACAAAAD2G3KrX1adcp1ZML7M4U4m0ce6aSuKNpD59EbmDuhZ0gAAAAAOgAAAAAIAACAAAADQvAGMOXisH4vg7faw/Iku2ZmDG1KDIS1tjVCy5lnPGoAAAACfNROW/qPY2qdDTpKkE6GRIHDHqf5t17DEXqSkt2bRwAs8eTFSQHr1fpP/7uZrx8c63xrcCIphkmCCHMReoI/65C6BxCrfflZbqxF2GYx7ULaPSkbT7ubJORiOeU+B2gxDQ9dvYH+enxMtRWXodrzFFNlSyFVm2BYiNFQ7O/bou0AAAABu+tfIyRpXy/PlmGPhm4l8kn1d/1qF3PQeQoXOdt6JRLuR/z5jtiEgkUrYBYjM+LrKDekrrTG7OSd/NqqVFMMj</EncryptedPassword>
+    <History>True|2023-08-04T20:08:02.2423367Z;False|2023-08-05T05:58:28.6491931+10:00;False|2023-08-05T05:46:43.9443741+10:00;False|2023-08-05T05:38:02.5037028+10:00;False|2023-08-05T05:29:24.6234707+10:00;False|2023-08-05T05:24:00.4297679+10:00;False|2023-08-05T05:17:20.9897574+10:00;False|2023-08-05T05:11:37.6920749+10:00;False|2023-08-05T05:09:06.8322486+10:00;False|2023-08-05T05:07:23.5912054+10:00;True|2023-08-05T04:54:46.3984224+10:00;True|2023-08-05T04:51:28.1308547+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AuthConnection">
+      <Value>Server=tcp:trading-app.database.windows.net,1433%3bInitial Catalog=order-trade%3bPersist Security Info=False%3bUser ID=ngakhanh%3bPassword=Nga123456%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="TradeConnection">
+      <Value>Server=tcp:trading-app.database.windows.net,1433%3bInitial Catalog=order-trade%3bPersist Security Info=False%3bUser ID=ngakhanh%3bPassword=Nga123456%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="TradeSystemAPI.Data.AuthContext">
+      <Value>Server=tcp:trading-app.database.windows.net,1433%3bInitial Catalog=order-trade%3bPersist Security Info=False%3bUser ID=ngakhanh%3bPassword=Nga123456%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="TradeSystemAPI.Data.TradeContext">
+      <Value>Server=tcp:trading-app.database.windows.net,1433%3bInitial Catalog=order-trade%3bPersist Security Info=False%3bUser ID=ngakhanh%3bPassword=Nga123456%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

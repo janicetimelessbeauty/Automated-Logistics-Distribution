@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="trading-webapp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemAPI\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="TradeSystemAPI.Data.AuthContext" description="" value="Server=tcp:trading-app.database.windows.net,1433;Initial Catalog=order-trade;Persist Security Info=False;User ID=ngakhanh;Password=Nga123456@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemAPI\\obj\\Release\\net7\.0\\PubTmp\\EFSQLScripts\\TradeSystemAPI\.Data\.AuthContext\.sql$" />
+  </parameter>
+  <parameter name="TradeSystemAPI.Data.TradeContext" description="" value="Server=tcp:trading-app.database.windows.net,1433;Initial Catalog=order-trade;Persist Security Info=False;User ID=ngakhanh;Password=Nga123456@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\DELL\\OneDrive\\Documents\\TradeSystem\\TradeSystemAPI\\obj\\Release\\net7\.0\\PubTmp\\EFSQLScripts\\TradeSystemAPI\.Data\.TradeContext\.sql$" />
+  </parameter>
+</parameters>
